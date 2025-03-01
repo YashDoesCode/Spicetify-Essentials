@@ -1,4 +1,4 @@
-##Made For Apeksha Chaudhary (1Hr)
+##Made For Apeksha Choudhary (1Hr)
 
 ## Script
 
