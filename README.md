@@ -1,3 +1,5 @@
+##Made For Apeksha Chaudhary (1Hr)
+
 ## Script
 
 curl -fsSL https://raw.githubusercontent.com/spicetify/cli/main/install.sh | sh
